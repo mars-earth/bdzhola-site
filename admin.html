@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Адмінка</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="container">
+    <div id="loginBox">
+  <h2>Вхід в адмінку</h2>
+
+  <input
+    type="password"
+    id="adminPassword"
+    placeholder="Введіть пароль"
+  >
+
+  <button onclick="loginAdmin()">
+    Увійти
+  </button>
+
+  <p id="loginError"></p>
+</div>
+<div id="adminPanel" style="display:none;">
+  <button onclick="logoutAdmin()">Вийти</button>
+    <h1>Замовлення</h1>
+
+    <table border="1" id="ordersTable">
+      <thead>
+        <tr>
+          <th>ID</th>
+<th>Товар</th>
+<th>Кількість</th>
+<th>Ім'я</th>
+<th>Телефон</th>
+<th>Місто</th>
+<th>Пошта</th>
+<th>Дата</th>
+<th>Дія</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+    </div>
+  </div>
+
+  <script src="js/admin.js"></script>
+  <div id="deleteModal" class="delete-modal">
+  <div class="delete-modal-content">
+    <p>Видалити замовлення?</p>
+
+    <button id="confirmDelete">Так</button>
+    <button id="cancelDelete">Скасувати</button>
+  </div>
+</div>
+</body>
+</html>

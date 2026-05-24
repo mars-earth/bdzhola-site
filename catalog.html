@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Каталог | Бджола Летюча</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <div class="logo">Бджола Летюча</div>
+
+      <nav class="nav">
+        <a href="index.html" id="nav-home"
+   data-ua="Головна"
+   data-en="Home">Головна</a>
+
+<a href="catalog.html" id="nav-catalog"
+   data-ua="Каталог"
+   data-en="Catalog">Каталог</a>
+
+<a href="contacts.html" id="nav-contacts"
+   data-ua="Контакти"
+   data-en="Contacts">Контакти</a>
+      </nav>
+      <button id="langToggle" class="lang-btn">
+  <img id="langIcon" src="flags/ua.svg" width="22">
+</button>
+    </div>
+  </header>
+
+  <section class="catalog">
+    <div class="container">
+      <h1 data-ua="Каталог свічок"
+    data-en="Candle catalog">
+  Каталог свічок
+</h1>
+      <div id="products" class="products"></div>
+    </div>
+  </section>
+
+  <div id="orderModal" class="modal">
+    <div class="modal-content">
+
+      <span id="closeModal">&times;</span>
+
+      <h2 data-ua="Оформлення замовлення"
+    data-en="Order form">
+  Оформлення замовлення
+</h2>
+
+      <form id="orderForm">
+
+        <label data-ua="Товар" data-en="Product">Товар</label>
+        <input type="text" id="productName" readonly>
+
+        <label data-ua="Кількість" data-en="Quantity">Кількість</label>
+        <input type="number" id="quantity" min="1" value="1" required>
+
+        <label data-ua="Ваше ім’я" data-en="Your name">Ваше ім’я</label>
+        <input type="text" id="customerName" required>
+
+        <label data-ua="Номер телефону" data-en="Phone number">Номер телефону</label>
+        <input type="tel" id="phone" required>
+
+        <label data-ua="Місто" data-en="City">Місто</label>
+        <input type="text" id="city" required>
+
+        <label data-ua="Відділення пошти" data-en="Post office">Відділення пошти</label>
+        <input type="text" id="postOffice" required>
+
+        <button id="submitOrderBtn"
+        data-ua="Підтвердити замовлення"
+        data-en="Confirm order">
+  Підтвердити замовлення
+</button>
+
+      </form>
+
+    </div>
+  </div>
+
+ <script src="js/products.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/inputmask@5.0.8/dist/inputmask.min.js"></script>
+ <script src="js/main.js"></script>
+
+</body>
+</html>

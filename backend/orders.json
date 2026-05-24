@@ -1,0 +1,1090 @@
+[
+  {
+    "name": "Медова свічка",
+    "price": 165,
+    "desc": "Натуральний бджолиний віск",
+    "image": "images/honey.jpg"
+  },
+  {
+    "name": "Лавандова свічка",
+    "price": 150,
+    "desc": "Розслабляючий аромат лаванди",
+    "image": "images/lavender.jpg"
+  },
+  {
+    "name": "Медова свічка",
+    "price": 165,
+    "desc": "Натуральний бджолиний віск",
+    "image": "images/honey.jpg"
+  },
+  {
+    "name": "Медова свічка",
+    "price": 165,
+    "desc": "Натуральний бджолиний віск",
+    "image": "images/honey.jpg"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "5",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "3",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "3",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "4",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "земля ",
+    "phone": "2",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "3",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№4"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "12",
+    "customerName": "земля ",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№4"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "5",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "граб",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№4"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№4"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "граб",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": ""
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "",
+    "phone": "",
+    "city": "",
+    "postOffice": ""
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "",
+    "phone": "",
+    "city": "",
+    "postOffice": ""
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "граб",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "2",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": ""
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "",
+    "city": "",
+    "postOffice": ""
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "2",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "граб",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "2",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "2",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "2",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "граб",
+    "postOffice": "#4"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "100",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "4",
+    "customerName": "Олена",
+    "phone": "555555",
+    "city": "Харків",
+    "postOffice": "№7"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "5",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№12"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "5",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "7",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "333",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 98 332 __ __",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 34 444 44 44",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 34 444 44 44",
+    "city": "444444",
+    "postOffice": "444444"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 34 444 43 34",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 35 555 55 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 33 333 33 33",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "Олег",
+    "phone": "+380 45 555 55 55",
+    "city": "Харків",
+    "postOffice": "№8"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "Олег",
+    "phone": "+380 45 555 55 55",
+    "city": "граб",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "Олег",
+    "phone": "+380 45 555 54 55",
+    "city": "Харків",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "Max",
+    "phone": "+380 45 555 44 44",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Honey candle",
+    "quantity": "4",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Lavender candle",
+    "quantity": "1",
+    "customerName": "земля",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Vanilla candle",
+    "quantity": "1",
+    "customerName": "земля",
+    "phone": "+380 45 555 54 55",
+    "city": "Харків",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Lavender candle",
+    "quantity": "1",
+    "customerName": "земля",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Lavender candle",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Lavender candle",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "4",
+    "customerName": "марс",
+    "phone": "+380 45 555 55 55",
+    "city": "Харків",
+    "postOffice": "#4"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "граб",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Харків",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 55 55",
+    "city": "Харків",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 36 666 66 66",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "Зоя",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№66"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "земля",
+    "phone": "+380 45 555 54 55",
+    "city": "Харків",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Харків",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Lavender candle",
+    "quantity": "1",
+    "customerName": "земля",
+    "phone": "+380 36 666 66 66",
+    "city": "Обухів",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Lavender candle",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "10",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Vanilla candle",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Honey candle",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№2"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Харків",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Honey candle",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Lavender candle",
+    "quantity": "2",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Vanilla candle",
+    "quantity": "3",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Propolis candle",
+    "quantity": "4",
+    "customerName": "земля",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Pure beeswax candle",
+    "quantity": "5",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Медово-ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Свічка з чистого воску",
+    "quantity": "1",
+    "customerName": "марсffffffffaaaaaaa",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Медова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Свічка з чистого воску",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Медово-ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "земля",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  },
+  {
+    "name": "Лавандова свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№4"
+  },
+  {
+    "name": "Ванільна свічка",
+    "quantity": "1",
+    "customerName": "марс",
+    "phone": "+380 45 555 54 55",
+    "city": "Київ",
+    "postOffice": "№80"
+  }
+]
