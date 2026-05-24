@@ -28,10 +28,6 @@ const path = require("path");
 
 app.use(express.static(path.join(__dirname, "../")));
 
-/*app.get("/", (req, res) => {
-  res.send("Server works!");
-});*/
-
 app.post("/api/order", async (req, res) => {
   const order = req.body;
 
@@ -132,6 +128,8 @@ app.post("/api/admin-login", (req, res) => {
     });
   }
 });
-app.listen(3000, () => {
-  console.log("Server started on port 3000");
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => {
+  console.log("Server started on port " + PORT);
 });
