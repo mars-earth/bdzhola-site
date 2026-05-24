@@ -91,7 +91,7 @@ if (digits.length !== 9) {
   };
 
   setTimeout(() => {
-  fetch("http://127.0.0.1:3000/api/order", {
+  fetch("/api/order", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
