@@ -45,27 +45,27 @@ A full-stack e-commerce web application for selling handmade beeswax candles wit
 **Deployment:**
 - Render
 
-🔐 Admin Panel
+## 🔐 Admin Panel
 URL: /admin.html
 Login required via password from .env
 
-🛒 API Endpoints
+## 🛒 API Endpoints
 POST /api/order — create order
 GET /api/orders — get all orders
 DELETE /api/orders/:id — delete order
 
-📬 Telegram Integration
+## 📬 Telegram Integration
 New orders are automatically sent to Telegram using bot API.
 
-💡 Future Improvements
+## 💡 Future Improvements
 Online payment integration (Stripe / LiqPay)
 Product management from admin panel
 Order status system (new / shipped / completed)
 User accounts system
 
-👨‍💻 Author
+## 👨‍💻 Author
 Created by mars-earth.
 Full-stack developer (Node.js / Frontend / API integration)
 
-📄 License
+## 📄 License
 This project is for portfolio/demo purposes.
