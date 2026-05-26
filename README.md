@@ -45,26 +45,6 @@ A full-stack e-commerce web application for selling handmade beeswax candles wit
 **Deployment:**
 - Render
 
-## 📁 Project Structure
-project/
-│
-├── backend/
-│ ├── server.js
-│ ├── orders.db
-│ └── .env
-│
-├── css/
-├── js/
-│ ├── main.js
-│ ├── admin.js
-│ └── products.js
-│
-├── images/
-├── index.html
-├── catalog.html
-├── admin.html
-└── package.json
-
 🔐 Admin Panel
 URL: /admin.html
 Login required via password from .env
