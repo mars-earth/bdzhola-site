@@ -64,7 +64,7 @@ Order status system (new / shipped / completed)
 User accounts system
 
 👨‍💻 Author
-Created by [Your Name]
+Created by mars-earth.
 Full-stack developer (Node.js / Frontend / API integration)
 
 📄 License
